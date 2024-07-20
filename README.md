@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhamadrizkiariffadillah
 - 👀 I’m interested in Python Programming Language, DevOps, DevSecOps and Cyber Security Engineer.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, Golang, Javascript, Penetration testing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muriarfad@gmail.com
 - 😄 Pronouns: Kibo
