@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @muhamadrizkiariffadillah
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning Python, Golang, Penetration testing, Web3 Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me muriarfad@gmail.com
-- 😄 Pronouns: Kibo
-- ⚡ Fun fact: "Keep invest my self in techonolgy and creativity."
+<img src="https://tryhackme-badges.s3.amazonaws.com/muriarfad.png" alt="TryHackMe">
 
 <!---
 muhamadrizkiariffadillah/muhamadrizkiariffadillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
