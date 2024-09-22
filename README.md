@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/muriarfad.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/muriarfad.png">
 
 <!---
 muhamadrizkiariffadillah/muhamadrizkiariffadillah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
