@@ -8,6 +8,7 @@ Learning certifications:
 - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RMVXR1FXMV.png">Offensive pentensting - TryHackMe</a>
 - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-V9NHMETS44.png">Comptia pentest+ - TryHackMe</a>
 - <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SG6SY24JGX.png">Junior Pentester - TryHackMe</a>
+- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-O4QY3PRRU6.png">Security Engineer - TryHackMe</a>
 - Kelas cyber security from habiskerja.com
 
 Virtual Internship:
